@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/50027b65-3465-495d-9839-d0f2923d445f
 # Tracker Tester CPP
 
 A C++ program for testing and comparing the performance of different object tracking algorithms.
@@ -8,8 +6,7 @@ A C++ program for testing and comparing the performance of different object trac
 
 A sample test result video is included below:
 
-
-https://github.com/user-attachments/assets/6eefaf46-1c5b-45f6-b6d5-56fba9962ed5
+https://github.com/user-attachments/assets/50027b65-3465-495d-9839-d0f2923d445f
 [test-in-6-tracker.mp4](test-in-6-tracker.mp4)
 
 ## Description
