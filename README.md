@@ -6,8 +6,9 @@ A C++ program for testing and comparing the performance of different object trac
 
 A sample test result video is included below:
 
-https://github.com/user-attachments/assets/50027b65-3465-495d-9839-d0f2923d445f
-[test-in-6-tracker.mp4](test-in-6-tracker.mp4)
+
+https://github.com/user-attachments/assets/1dde173d-2d22-49b1-a14a-ffe040b45a7b
+
 
 ## Description
 
